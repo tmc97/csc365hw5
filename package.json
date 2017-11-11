@@ -1,0 +1,21 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "Homework 5",
+  "main": "app.js",
+  "author": "Taylor Cook <tmc97@live.missouristate.edu>",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.16.2",
+    "hoffman": "^0.2.2"
+  },
+  "devDependencies": {
+    "nightwatch": "^0.9.16",
+    "eslint": "^4.9.0",
+    "jasmine": "^2.8.0",
+    "nodemon": "^1.12.1",
+    "selenium-server-standalone-jar": "^3.6.0"
+  },
+  "license": "UNLICENSED"
+}

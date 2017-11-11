@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Homework 5</title>
+    <script src="/assets/root.js"></script>
+</head>
+
+<body>
+    <h1 id="appear">Top 10 colors</h1>
+
+    <div id="disappear">
+        <h2>Hello!</h2>
+        <p>This is a top 10 list of the best colors, beginning with the basic colors. Sorry if you personally believe in ROYGBIV because I have not included indigo. Indigo is just a combination of blue and purple yet I don't see people including yellow-orange or other inbetweeners in the colors of the rainbow. The numbered list will load shortly.</p>
+        <p><img width = "200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Rainbow-diagram-ROYGBIV.svg/1200px-Rainbow-diagram-ROYGBIV.svg.png" /></p>
+        <p><img id="loader" src="assets/ajax-loader.gif" /></p>
+    </div>
+    <ol>
+    </ol>
+</body>
+</html>
